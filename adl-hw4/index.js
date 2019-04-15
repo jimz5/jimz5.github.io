@@ -6,7 +6,7 @@ const HOSTED_URLS = {
       'model_js/metadata.json'
 };
 
-# The_Adventures_of_Tom_Sawyer, The_Adventures_of_Huckleberry_Finn, The_Analysis_of_Mind, A_Midsummer_Nights_Dream
+
 const examples = {
   'example1':
       'But my goodness, he never plays them alike, two days, and how is a body to know what's coming?',
