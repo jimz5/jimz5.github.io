@@ -9,7 +9,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'But my goodness, he never plays them alike, two days, and how is a body to know what's coming?',
+      "But my goodness, he never plays them alike, two days, and how is a body to know what's coming?",
   'example2':
       'He leaned his back up against a tree, and stretched his legs out till one of them most touched one of mine.',
   'example3':
