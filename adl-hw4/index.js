@@ -6,13 +6,14 @@ const HOSTED_URLS = {
       'model_js/metadata.json'
 };
 
+# The_Adventures_of_Tom_Sawyer, The_Adventures_of_Huckleberry_Finn, The_Analysis_of_Mind, A_Midsummer_Nights_Dream
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'But my goodness, he never plays them alike, two days, and how is a body to know what's coming?',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'He leaned his back up against a tree, and stretched his legs out till one of them most touched one of mine.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'What have been called "unconscious" desires have been brought very much to the fore in recent years by psycho-analysis.',
   'example4':
       'Therefore, fair Hermia, question your desires, Know of your youth, examine well your blood'
 };
