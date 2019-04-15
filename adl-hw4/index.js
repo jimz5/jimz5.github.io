@@ -12,7 +12,9 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+  'example4':
+      'Therefore, fair Hermia, question your desires, Know of your youth, examine well your blood'
 };
 
 function status(statusText) {
